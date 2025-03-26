@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fuzhujuece/fuzhujuece.iml" filepath="$PROJECT_DIR$/fuzhujuece/fuzhujuece.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot295基于Mysql的商业辅助决策系统的设计与实现.iml" filepath="$PROJECT_DIR$/.idea/springboot295基于Mysql的商业辅助决策系统的设计与实现.iml" />
+    </modules>
+  </component>
+</project>
